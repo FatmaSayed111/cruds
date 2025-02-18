@@ -1,2 +1,2 @@
 # cruds
-html css js cruds database system
+ database system
